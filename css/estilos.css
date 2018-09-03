@@ -1,0 +1,33 @@
+.izq{
+	background-color: #F3B0F9;
+	width: 20%;
+	float: left;
+	height: 1200px;
+}
+
+.centro{
+	background-color: #93FBF9;
+	width: 60%;
+	float: left;
+	height: 1200px;
+}
+
+.dcha{
+	background-color: #8086F9;
+	width: 20%;
+	float: left;
+	height: 1200px;
+
+}
+.caja{
+	padding: 10px;
+	background-color: pink;
+	width: 80%;
+	margin: 0 auto;
+
+}
+.clear{
+	clear: both;
+	
+
+}
